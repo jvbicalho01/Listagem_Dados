@@ -15,7 +15,7 @@ interface PaginationProps {
   page: number
 }
 
-export function Pagination({ items, page, pages }: PaginationProps) {
+export function Pagination({ pages, items, page }: PaginationProps) {
   const [, setSearchParams] = useSearchParams()
 
   function firstPage() {

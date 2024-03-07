@@ -1,0 +1,772 @@
+{
+  "tags": [
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 148
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 89
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 116
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 201
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 324
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 420
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 298
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "C#",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 133
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 77
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 94
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 169
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 189
+    },
+    {
+      "title": "Go",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Dart",
+      "amountOfVideos": 81
+    },
+    {
+      "title": "Assembly",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Perl",
+      "amountOfVideos": 56
+    },
+    {
+      "title": "Scala",
+      "amountOfVideos": 72
+    },
+    {
+      "title": "R",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Haskell",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "Lua",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Matlab",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Objective-C",
+      "amountOfVideos": 67
+    },
+    {
+      "title": "Shell",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "PowerShell",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Groovy",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 99
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 86
+    },
+    {
+      "title": "Redis",
+      "amountOfVideos": 74
+    },
+    {
+      "title": "Elasticsearch",
+      "amountOfVideos": 58
+    },
+    {
+      "title": "PostgreSQL",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "MySQL",
+      "amountOfVideos": 107
+    },
+    {
+      "title": "SQLite",
+      "amountOfVideos": 53
+    },
+    {
+      "title": "Firebase",
+      "amountOfVideos": 79
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Azure",
+      "amountOfVideos": 97
+    },
+    {
+      "title": "Google Cloud",
+      "amountOfVideos": 103
+    },
+    {
+      "title": "Heroku",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Netlify",
+      "amountOfVideos": 43
+    },
+    {
+      "title": "DigitalOcean",
+      "amountOfVideos": 51
+    },
+    {
+      "title": "Vagrant",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "VirtualBox",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "VMware",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "Linux",
+      "amountOfVideos": 144
+    },
+    {
+      "title": "Windows",
+      "amountOfVideos": 189
+    },
+    {
+      "title": "macOS",
+      "amountOfVideos": 121
+    },
+    {
+      "title": "iOS",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Android",
+      "amountOfVideos": 123
+    },
+    {
+      "title": "React Native",
+      "amountOfVideos": 76
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Ionic",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Xamarin",
+      "amountOfVideos": 71
+    },
+    {
+      "title": "Unity",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Unreal Engine",
+      "amountOfVideos": 94
+    },
+    {
+      "title": "Blender",
+      "amountOfVideos": 69
+    },
+    {
+      "title": "Maya",
+      "amountOfVideos": 52
+    },
+    {
+      "title": "Photoshop",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Illustrator",
+      "amountOfVideos": 84
+    },
+    {
+      "title": "InDesign",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "After Effects",
+      "amountOfVideos": 79
+    },
+    {
+      "title": "Premiere Pro",
+      "amountOfVideos": 91
+    },
+    {
+      "title": "Final Cut Pro",
+      "amountOfVideos": 76
+    },
+    {
+      "title": "DaVinci Resolve",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Sketch",
+      "amountOfVideos": 104
+    },
+    {
+      "title": "Figma",
+      "amountOfVideos": 99
+    },
+    {
+      "title": "Zeplin",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Adobe XD",
+      "amountOfVideos": 62
+    },
+    {
+      "title": "Axure RP",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Balsamiq",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "Proto.io",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "Marvel",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "InVision",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Principle",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Flinto",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "Origami Studio",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Craft",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Overflow",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Framer",
+      "amountOfVideos": 67
+    },
+    {
+      "title": "Studio",
+      "amountOfVideos": 51
+    },
+    {
+      "title": "Adobe Audition",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "Logic Pro",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Ableton Live",
+      "amountOfVideos": 54
+    },
+    {
+      "title": "Pro Tools",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "GarageBand",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Cubase",
+      "amountOfVideos": 43
+    },
+    {
+      "title": "FL Studio",
+      "amountOfVideos": 58
+    },
+    {
+      "title": "Bitwig Studio",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Reason",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Reaper",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "Nuendo",
+      "amountOfVideos": 24
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 89
+    },
+    {
+      "title": "Vue.js",
+      "amountOfVideos": 116
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 201
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 324
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 420
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 298
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 175
+    },
+    {
+      "title": "C#",
+      "amountOfVideos": 210
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 133
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 77
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 150
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 94
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 169
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 189
+    },
+    {
+      "title": "Go",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Dart",
+      "amountOfVideos": 81
+    },
+    {
+      "title": "Assembly",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Perl",
+      "amountOfVideos": 56
+    },
+    {
+      "title": "Scala",
+      "amountOfVideos": 72
+    },
+    {
+      "title": "R",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Haskell",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "Lua",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Matlab",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Objective-C",
+      "amountOfVideos": 67
+    },
+    {
+      "title": "Shell",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "PowerShell",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "Groovy",
+      "amountOfVideos": 27
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 99
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 86
+    },
+    {
+      "title": "Redis",
+      "amountOfVideos": 74
+    },
+    {
+      "title": "Elasticsearch",
+      "amountOfVideos": 58
+    },
+    {
+      "title": "PostgreSQL",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "MySQL",
+      "amountOfVideos": 107
+    },
+    {
+      "title": "SQLite",
+      "amountOfVideos": 53
+    },
+    {
+      "title": "Firebase",
+      "amountOfVideos": 79
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Azure",
+      "amountOfVideos": 97
+    },
+    {
+      "title": "Google Cloud",
+      "amountOfVideos": 103
+    },
+    {
+      "title": "Heroku",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Netlify",
+      "amountOfVideos": 43
+    },
+    {
+      "title": "DigitalOcean",
+      "amountOfVideos": 51
+    },
+    {
+      "title": "Vagrant",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "VirtualBox",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "VMware",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "Linux",
+      "amountOfVideos": 144
+    },
+    {
+      "title": "Windows",
+      "amountOfVideos": 189
+    },
+    {
+      "title": "macOS",
+      "amountOfVideos": 121
+    },
+    {
+      "title": "iOS",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "Android",
+      "amountOfVideos": 123
+    },
+    {
+      "title": "React Native",
+      "amountOfVideos": 76
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Ionic",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Xamarin",
+      "amountOfVideos": 71
+    },
+    {
+      "title": "Unity",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Unreal Engine",
+      "amountOfVideos": 94
+    },
+    {
+      "title": "Blender",
+      "amountOfVideos": 69
+    },
+    {
+      "title": "Maya",
+      "amountOfVideos": 52
+    },
+    {
+      "title": "Photoshop",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Illustrator",
+      "amountOfVideos": 84
+    },
+    {
+      "title": "InDesign",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "After Effects",
+      "amountOfVideos": 79
+    },
+    {
+      "title": "Premiere Pro",
+      "amountOfVideos": 91
+    },
+    {
+      "title": "Final Cut Pro",
+      "amountOfVideos": 76
+    },
+    {
+      "title": "DaVinci Resolve",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Sketch",
+      "amountOfVideos": 104
+    },
+    {
+      "title": "Figma",
+      "amountOfVideos": 99
+    },
+    {
+      "title": "Zeplin",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Adobe XD",
+      "amountOfVideos": 62
+    },
+    {
+      "title": "Axure RP",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Balsamiq",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "Proto.io",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "Marvel",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "InVision",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Principle",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Flinto",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "Origami Studio",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "Craft",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Overflow",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Framer",
+      "amountOfVideos": 67
+    },
+    {
+      "title": "Studio",
+      "amountOfVideos": 51
+    },
+    {
+      "title": "Adobe Audition",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "Logic Pro",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Ableton Live",
+      "amountOfVideos": 54
+    },
+    {
+      "title": "Pro Tools",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "GarageBand",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Cubase",
+      "amountOfVideos": 43
+    },
+    {
+      "title": "FL Studio",
+      "amountOfVideos": 58
+    },
+    {
+      "title": "Bitwig Studio",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Reason",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Reaper",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "Nuendo",
+      "amountOfVideos": 24
+    }
+  ]
+}
