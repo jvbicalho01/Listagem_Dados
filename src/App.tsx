@@ -1,4 +1,4 @@
-import { Plus, Search, FileDown, MoreHorizontal } from "lucide-react"
+import { Plus, Search, Filter, FileDown, MoreHorizontal } from "lucide-react"
 
 import { Header } from "./components/Header"
 import { Tabs } from "./components/Tabs"
@@ -30,15 +30,17 @@ export interface Tag {
 export function App() {
 
   const [searchParams, setSearchParams] = useSearchParams()
+  const urlFilter = searchParams.get('filter') ?? ''
 
-  const [filter, setFilter] = useState('')
+  const [filter, setFilter] = useState(urlFilter)
 
   const page = searchParams.get('page') ? Number(searchParams.get('page')) : 1
 
+
   const { data: tagsResponse, isLoading } = useQuery<TagResponse>({
-    queryKey: ['get-tags', page],
+    queryKey: ['get-tags', urlFilter, page],
     queryFn: async () => {
-      const response = await fetch(`http://localhost:3333/tags?_page=${page}_per_page=10`)
+      const response = await fetch(`http://localhost:3333/tags?_page=${page}_per_page=10&title=${urlFilter}`)
       const data = await response.json()
 
       // delay 2s
@@ -49,6 +51,15 @@ export function App() {
     placeholderData: keepPreviousData,
     staleTime: 1000 * 60,
   })
+
+  function haldleFilter() {
+    setSearchParams(params => {
+      params.set('page', '1')
+      params.set('filter', filter)
+
+      return params
+    })
+  }
 
   if (isLoading) {
     return null
@@ -72,14 +83,20 @@ export function App() {
           </div>
 
           <div className="flex items-center justify-between">
-            <Input variant="filter">
-              <Search className="size-3" />
-              <Control
-                placeholder="Search tags..."
-                onChange={e => setFilter(e.target.value)}
-                value={filter}
-              />
-            </Input>
+            <div className="flex items-center">
+              <Input variant="filter">
+                <Search className="size-3" />
+                <Control
+                  placeholder="Search tags..."
+                  onChange={e => setFilter(e.target.value)}
+                  value={filter}
+                />
+              </Input>
+              <Button onClick={haldleFilter}>
+                <Filter className="size-3" />
+                Filter
+              </Button>
+            </div>
 
             <Button>
               <FileDown className="size-3" />
