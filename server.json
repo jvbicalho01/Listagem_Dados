@@ -2,771 +2,1179 @@
   "tags": [
     {
       "title": "TypeScript",
-      "amountOfVideos": 148
+      "slug": "old",
+      "amountOfVideos": 148,
+      "id": "6cab"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "bd7f"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 89
+      "slug": "old",
+      "amountOfVideos": 89,
+      "id": "4500"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 116
+      "slug": "old",
+      "amountOfVideos": 116,
+      "id": "0376"
     },
     {
       "title": "Node.js",
-      "amountOfVideos": 201
+      "slug": "old",
+      "amountOfVideos": 201,
+      "id": "db8b"
     },
     {
       "title": "Python",
-      "amountOfVideos": 324
+      "slug": "old",
+      "amountOfVideos": 324,
+      "id": "3e1b"
     },
     {
       "title": "JavaScript",
-      "amountOfVideos": 420
+      "slug": "old",
+      "amountOfVideos": 420,
+      "id": "b3b3"
     },
     {
       "title": "Java",
-      "amountOfVideos": 298
+      "slug": "old",
+      "amountOfVideos": 298,
+      "id": "1ae0"
     },
     {
       "title": "C++",
-      "amountOfVideos": 175
+      "slug": "old",
+      "amountOfVideos": 175,
+      "id": "3b87"
     },
     {
       "title": "C#",
-      "amountOfVideos": 210
+      "slug": "old",
+      "amountOfVideos": 210,
+      "id": "216b"
     },
     {
       "title": "HTML",
-      "amountOfVideos": 133
+      "slug": "old",
+      "amountOfVideos": 133,
+      "id": "4040"
     },
     {
       "title": "CSS",
-      "amountOfVideos": 98
+      "slug": "old",
+      "amountOfVideos": 98,
+      "id": "d090"
     },
     {
       "title": "Ruby",
-      "amountOfVideos": 77
+      "slug": "old",
+      "amountOfVideos": 77,
+      "id": "14e1"
     },
     {
       "title": "PHP",
-      "amountOfVideos": 150
+      "slug": "old",
+      "amountOfVideos": 150,
+      "id": "0cb3"
     },
     {
       "title": "Swift",
-      "amountOfVideos": 94
+      "slug": "old",
+      "amountOfVideos": 94,
+      "id": "c1e2"
     },
     {
       "title": "Kotlin",
-      "amountOfVideos": 122
+      "slug": "old",
+      "amountOfVideos": 122,
+      "id": "4c5e"
     },
     {
       "title": "TypeScript",
-      "amountOfVideos": 169
+      "slug": "old",
+      "amountOfVideos": 169,
+      "id": "2c16"
     },
     {
       "title": "SQL",
-      "amountOfVideos": 189
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "1458"
     },
     {
       "title": "Go",
-      "amountOfVideos": 105
+      "slug": "old",
+      "amountOfVideos": 105,
+      "id": "a016"
     },
     {
       "title": "Rust",
-      "amountOfVideos": 68
+      "slug": "old",
+      "amountOfVideos": 68,
+      "id": "969e"
     },
     {
       "title": "Dart",
-      "amountOfVideos": 81
+      "slug": "old",
+      "amountOfVideos": 81,
+      "id": "1a3f"
     },
     {
       "title": "Assembly",
-      "amountOfVideos": 45
+      "slug": "old",
+      "amountOfVideos": 45,
+      "id": "9d3b"
     },
     {
       "title": "Perl",
-      "amountOfVideos": 56
+      "slug": "old",
+      "amountOfVideos": 56,
+      "id": "9f86"
     },
     {
       "title": "Scala",
-      "amountOfVideos": 72
+      "slug": "old",
+      "amountOfVideos": 72,
+      "id": "cb89"
     },
     {
       "title": "R",
-      "amountOfVideos": 63
+      "slug": "old",
+      "amountOfVideos": 63,
+      "id": "66f9"
     },
     {
       "title": "Haskell",
-      "amountOfVideos": 48
+      "slug": "old",
+      "amountOfVideos": 48,
+      "id": "8bae"
     },
     {
       "title": "Lua",
-      "amountOfVideos": 37
+      "slug": "old",
+      "amountOfVideos": 37,
+      "id": "980a"
     },
     {
       "title": "Matlab",
-      "amountOfVideos": 41
+      "slug": "old",
+      "amountOfVideos": 41,
+      "id": "6541"
     },
     {
       "title": "Objective-C",
-      "amountOfVideos": 67
+      "slug": "old",
+      "amountOfVideos": 67,
+      "id": "bdb2"
     },
     {
       "title": "Shell",
-      "amountOfVideos": 29
+      "slug": "old",
+      "amountOfVideos": 29,
+      "id": "e120"
     },
     {
       "title": "PowerShell",
-      "amountOfVideos": 31
+      "slug": "old",
+      "amountOfVideos": 31,
+      "id": "4f46"
     },
     {
       "title": "Groovy",
-      "amountOfVideos": 27
+      "slug": "old",
+      "amountOfVideos": 27,
+      "id": "19a1"
     },
     {
       "title": "Docker",
-      "amountOfVideos": 99
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "090f"
     },
     {
       "title": "MongoDB",
-      "amountOfVideos": 86
+      "slug": "old",
+      "amountOfVideos": 86,
+      "id": "c718"
     },
     {
       "title": "Redis",
-      "amountOfVideos": 74
+      "slug": "old",
+      "amountOfVideos": 74,
+      "id": "5605"
     },
     {
       "title": "Elasticsearch",
-      "amountOfVideos": 58
+      "slug": "old",
+      "amountOfVideos": 58,
+      "id": "1b4c"
     },
     {
       "title": "PostgreSQL",
-      "amountOfVideos": 92
+      "slug": "old",
+      "amountOfVideos": 92,
+      "id": "fe62"
     },
     {
       "title": "MySQL",
-      "amountOfVideos": 107
+      "slug": "old",
+      "amountOfVideos": 107,
+      "id": "081c"
     },
     {
       "title": "SQLite",
-      "amountOfVideos": 53
+      "slug": "old",
+      "amountOfVideos": 53,
+      "id": "fdd7"
     },
     {
       "title": "Firebase",
-      "amountOfVideos": 79
+      "slug": "old",
+      "amountOfVideos": 79,
+      "id": "bc38"
     },
     {
       "title": "AWS",
-      "amountOfVideos": 112
+      "slug": "old",
+      "amountOfVideos": 112,
+      "id": "525e"
     },
     {
       "title": "Azure",
-      "amountOfVideos": 97
+      "slug": "old",
+      "amountOfVideos": 97,
+      "id": "e9b3"
     },
     {
       "title": "Google Cloud",
-      "amountOfVideos": 103
+      "slug": "old",
+      "amountOfVideos": 103,
+      "id": "c7b2"
     },
     {
       "title": "Heroku",
-      "amountOfVideos": 65
+      "slug": "old",
+      "amountOfVideos": 65,
+      "id": "bdcb"
     },
     {
       "title": "Netlify",
-      "amountOfVideos": 43
+      "slug": "old",
+      "amountOfVideos": 43,
+      "id": "e4ae"
     },
     {
       "title": "DigitalOcean",
-      "amountOfVideos": 51
+      "slug": "old",
+      "amountOfVideos": 51,
+      "id": "bebd"
     },
     {
       "title": "Vagrant",
-      "amountOfVideos": 34
+      "slug": "old",
+      "amountOfVideos": 34,
+      "id": "9e75"
     },
     {
       "title": "VirtualBox",
-      "amountOfVideos": 36
+      "slug": "old",
+      "amountOfVideos": 36,
+      "id": "f25e"
     },
     {
       "title": "VMware",
-      "amountOfVideos": 39
+      "slug": "old",
+      "amountOfVideos": 39,
+      "id": "85b3"
     },
     {
       "title": "Linux",
-      "amountOfVideos": 144
+      "slug": "old",
+      "amountOfVideos": 144,
+      "id": "c591"
     },
     {
       "title": "Windows",
-      "amountOfVideos": 189
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "0683"
     },
     {
       "title": "macOS",
-      "amountOfVideos": 121
+      "slug": "old",
+      "amountOfVideos": 121,
+      "id": "95ca"
     },
     {
       "title": "iOS",
-      "amountOfVideos": 98
+      "slug": "old",
+      "amountOfVideos": 98,
+      "id": "027b"
     },
     {
       "title": "Android",
-      "amountOfVideos": 123
+      "slug": "old",
+      "amountOfVideos": 123,
+      "id": "775c"
     },
     {
       "title": "React Native",
-      "amountOfVideos": 76
+      "slug": "old",
+      "amountOfVideos": 76,
+      "id": "42c6"
     },
     {
       "title": "Flutter",
-      "amountOfVideos": 88
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "09d3"
     },
     {
       "title": "Ionic",
-      "amountOfVideos": 57
+      "slug": "old",
+      "amountOfVideos": 57,
+      "id": "81b7"
     },
     {
       "title": "Xamarin",
-      "amountOfVideos": 71
+      "slug": "old",
+      "amountOfVideos": 71,
+      "id": "cf6c"
     },
     {
       "title": "Unity",
-      "amountOfVideos": 82
+      "slug": "old",
+      "amountOfVideos": 82,
+      "id": "82ae"
     },
     {
       "title": "Unreal Engine",
-      "amountOfVideos": 94
+      "slug": "old",
+      "amountOfVideos": 94,
+      "id": "8c3c"
     },
     {
       "title": "Blender",
-      "amountOfVideos": 69
+      "slug": "old",
+      "amountOfVideos": 69,
+      "id": "75db"
     },
     {
       "title": "Maya",
-      "amountOfVideos": 52
+      "slug": "old",
+      "amountOfVideos": 52,
+      "id": "a7db"
     },
     {
       "title": "Photoshop",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "e09e"
     },
     {
       "title": "Illustrator",
-      "amountOfVideos": 84
+      "slug": "old",
+      "amountOfVideos": 84,
+      "id": "1815"
     },
     {
       "title": "InDesign",
-      "amountOfVideos": 63
+      "slug": "old",
+      "amountOfVideos": 63,
+      "id": "3e81"
     },
     {
       "title": "After Effects",
-      "amountOfVideos": 79
+      "slug": "old",
+      "amountOfVideos": 79,
+      "id": "238f"
     },
     {
       "title": "Premiere Pro",
-      "amountOfVideos": 91
+      "slug": "old",
+      "amountOfVideos": 91,
+      "id": "4518"
     },
     {
       "title": "Final Cut Pro",
-      "amountOfVideos": 76
+      "slug": "old",
+      "amountOfVideos": 76,
+      "id": "b69e"
     },
     {
       "title": "DaVinci Resolve",
-      "amountOfVideos": 68
+      "slug": "old",
+      "amountOfVideos": 68,
+      "id": "1952"
     },
     {
       "title": "Sketch",
-      "amountOfVideos": 104
+      "slug": "old",
+      "amountOfVideos": 104,
+      "id": "9244"
     },
     {
       "title": "Figma",
-      "amountOfVideos": 99
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "8459"
     },
     {
       "title": "Zeplin",
-      "amountOfVideos": 47
+      "slug": "old",
+      "amountOfVideos": 47,
+      "id": "481a"
     },
     {
       "title": "Adobe XD",
-      "amountOfVideos": 62
+      "slug": "old",
+      "amountOfVideos": 62,
+      "id": "93fc"
     },
     {
       "title": "Axure RP",
-      "amountOfVideos": 57
+      "slug": "old",
+      "amountOfVideos": 57,
+      "id": "e357"
     },
     {
       "title": "Balsamiq",
-      "amountOfVideos": 39
+      "slug": "old",
+      "amountOfVideos": 39,
+      "id": "bd8f"
     },
     {
       "title": "Proto.io",
-      "amountOfVideos": 48
+      "slug": "old",
+      "amountOfVideos": 48,
+      "id": "af73"
     },
     {
       "title": "Marvel",
-      "amountOfVideos": 55
+      "slug": "old",
+      "amountOfVideos": 55,
+      "id": "46ae"
     },
     {
       "title": "InVision",
-      "amountOfVideos": 78
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "b4a4"
     },
     {
       "title": "Principle",
-      "amountOfVideos": 42
+      "slug": "old",
+      "amountOfVideos": 42,
+      "id": "c276"
     },
     {
       "title": "Flinto",
-      "amountOfVideos": 49
+      "slug": "old",
+      "amountOfVideos": 49,
+      "id": "4454"
     },
     {
       "title": "Origami Studio",
-      "amountOfVideos": 37
+      "slug": "old",
+      "amountOfVideos": 37,
+      "id": "402d"
     },
     {
       "title": "Craft",
-      "amountOfVideos": 29
+      "slug": "old",
+      "amountOfVideos": 29,
+      "id": "4854"
     },
     {
       "title": "Overflow",
-      "amountOfVideos": 33
+      "slug": "old",
+      "amountOfVideos": 33,
+      "id": "9c3e"
     },
     {
       "title": "Framer",
-      "amountOfVideos": 67
+      "slug": "old",
+      "amountOfVideos": 67,
+      "id": "571e"
     },
     {
       "title": "Studio",
-      "amountOfVideos": 51
+      "slug": "old",
+      "amountOfVideos": 51,
+      "id": "1feb"
     },
     {
       "title": "Adobe Audition",
-      "amountOfVideos": 38
+      "slug": "old",
+      "amountOfVideos": 38,
+      "id": "38c6"
     },
     {
       "title": "Logic Pro",
-      "amountOfVideos": 47
+      "slug": "old",
+      "amountOfVideos": 47,
+      "id": "1ff8"
     },
     {
       "title": "Ableton Live",
-      "amountOfVideos": 54
+      "slug": "old",
+      "amountOfVideos": 54,
+      "id": "3dc4"
     },
     {
       "title": "Pro Tools",
-      "amountOfVideos": 41
+      "slug": "old",
+      "amountOfVideos": 41,
+      "id": "6299"
     },
     {
       "title": "GarageBand",
-      "amountOfVideos": 36
+      "slug": "old",
+      "amountOfVideos": 36,
+      "id": "e11e"
     },
     {
       "title": "Cubase",
-      "amountOfVideos": 43
+      "slug": "old",
+      "amountOfVideos": 43,
+      "id": "5b10"
     },
     {
       "title": "FL Studio",
-      "amountOfVideos": 58
+      "slug": "old",
+      "amountOfVideos": 58,
+      "id": "520b"
     },
     {
       "title": "Bitwig Studio",
-      "amountOfVideos": 32
+      "slug": "old",
+      "amountOfVideos": 32,
+      "id": "dd00"
     },
     {
       "title": "Reason",
-      "amountOfVideos": 29
+      "slug": "old",
+      "amountOfVideos": 29,
+      "id": "a531"
     },
     {
       "title": "Reaper",
-      "amountOfVideos": 35
+      "slug": "old",
+      "amountOfVideos": 35,
+      "id": "0979"
     },
     {
       "title": "Nuendo",
-      "amountOfVideos": 24
+      "slug": "old",
+      "amountOfVideos": 24,
+      "id": "0bee"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "84ef"
     },
     {
       "title": "React",
-      "amountOfVideos": 142
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "50b2"
     },
     {
       "title": "Angular",
-      "amountOfVideos": 89
+      "slug": "old",
+      "amountOfVideos": 89,
+      "id": "e883"
     },
     {
       "title": "Vue.js",
-      "amountOfVideos": 116
+      "slug": "old",
+      "amountOfVideos": 116,
+      "id": "671a"
     },
     {
       "title": "Node.js",
-      "amountOfVideos": 201
+      "slug": "old",
+      "amountOfVideos": 201,
+      "id": "9660"
     },
     {
       "title": "Python",
-      "amountOfVideos": 324
+      "slug": "old",
+      "amountOfVideos": 324,
+      "id": "9eac"
     },
     {
       "title": "JavaScript",
-      "amountOfVideos": 420
+      "slug": "old",
+      "amountOfVideos": 420,
+      "id": "2498"
     },
     {
       "title": "Java",
-      "amountOfVideos": 298
+      "slug": "old",
+      "amountOfVideos": 298,
+      "id": "fc74"
     },
     {
       "title": "C++",
-      "amountOfVideos": 175
+      "slug": "old",
+      "amountOfVideos": 175,
+      "id": "b0ef"
     },
     {
       "title": "C#",
-      "amountOfVideos": 210
+      "slug": "old",
+      "amountOfVideos": 210,
+      "id": "c95c"
     },
     {
       "title": "HTML",
-      "amountOfVideos": 133
+      "slug": "old",
+      "amountOfVideos": 133,
+      "id": "fbc9"
     },
     {
       "title": "CSS",
-      "amountOfVideos": 98
+      "slug": "old",
+      "amountOfVideos": 98,
+      "id": "e6e9"
     },
     {
       "title": "Ruby",
-      "amountOfVideos": 77
+      "slug": "old",
+      "amountOfVideos": 77,
+      "id": "4ca8"
     },
     {
       "title": "PHP",
-      "amountOfVideos": 150
+      "slug": "old",
+      "amountOfVideos": 150,
+      "id": "a07a"
     },
     {
       "title": "Swift",
-      "amountOfVideos": 94
+      "slug": "old",
+      "amountOfVideos": 94,
+      "id": "52ad"
     },
     {
       "title": "Kotlin",
-      "amountOfVideos": 122
+      "slug": "old",
+      "amountOfVideos": 122,
+      "id": "75a8"
     },
     {
       "title": "TypeScript",
-      "amountOfVideos": 169
+      "slug": "old",
+      "amountOfVideos": 169,
+      "id": "20b4"
     },
     {
       "title": "SQL",
-      "amountOfVideos": 189
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "2839"
     },
     {
       "title": "Go",
-      "amountOfVideos": 105
+      "slug": "old",
+      "amountOfVideos": 105,
+      "id": "d787"
     },
     {
       "title": "Rust",
-      "amountOfVideos": 68
+      "slug": "old",
+      "amountOfVideos": 68,
+      "id": "e7c5"
     },
     {
       "title": "Dart",
-      "amountOfVideos": 81
+      "slug": "old",
+      "amountOfVideos": 81,
+      "id": "4af3"
     },
     {
       "title": "Assembly",
-      "amountOfVideos": 45
+      "slug": "old",
+      "amountOfVideos": 45,
+      "id": "390b"
     },
     {
       "title": "Perl",
-      "amountOfVideos": 56
+      "slug": "old",
+      "amountOfVideos": 56,
+      "id": "4dae"
     },
     {
       "title": "Scala",
-      "amountOfVideos": 72
+      "slug": "old",
+      "amountOfVideos": 72,
+      "id": "f38c"
     },
     {
       "title": "R",
-      "amountOfVideos": 63
+      "slug": "old",
+      "amountOfVideos": 63,
+      "id": "0838"
     },
     {
       "title": "Haskell",
-      "amountOfVideos": 48
+      "slug": "old",
+      "amountOfVideos": 48,
+      "id": "d78e"
     },
     {
       "title": "Lua",
-      "amountOfVideos": 37
+      "slug": "old",
+      "amountOfVideos": 37,
+      "id": "d4ec"
     },
     {
       "title": "Matlab",
-      "amountOfVideos": 41
+      "slug": "old",
+      "amountOfVideos": 41,
+      "id": "a1da"
     },
     {
       "title": "Objective-C",
-      "amountOfVideos": 67
+      "slug": "old",
+      "amountOfVideos": 67,
+      "id": "555a"
     },
     {
       "title": "Shell",
-      "amountOfVideos": 29
+      "slug": "old",
+      "amountOfVideos": 29,
+      "id": "6436"
     },
     {
       "title": "PowerShell",
-      "amountOfVideos": 31
+      "slug": "old",
+      "amountOfVideos": 31,
+      "id": "4fbd"
     },
     {
       "title": "Groovy",
-      "amountOfVideos": 27
+      "slug": "old",
+      "amountOfVideos": 27,
+      "id": "e528"
     },
     {
       "title": "Docker",
-      "amountOfVideos": 99
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "ea9e"
     },
     {
       "title": "MongoDB",
-      "amountOfVideos": 86
+      "slug": "old",
+      "amountOfVideos": 86,
+      "id": "197b"
     },
     {
       "title": "Redis",
-      "amountOfVideos": 74
+      "slug": "old",
+      "amountOfVideos": 74,
+      "id": "4c50"
     },
     {
       "title": "Elasticsearch",
-      "amountOfVideos": 58
+      "slug": "old",
+      "amountOfVideos": 58,
+      "id": "3b25"
     },
     {
       "title": "PostgreSQL",
-      "amountOfVideos": 92
+      "slug": "old",
+      "amountOfVideos": 92,
+      "id": "43a1"
     },
     {
       "title": "MySQL",
-      "amountOfVideos": 107
+      "slug": "old",
+      "amountOfVideos": 107,
+      "id": "5d6e"
     },
     {
       "title": "SQLite",
-      "amountOfVideos": 53
+      "slug": "old",
+      "amountOfVideos": 53,
+      "id": "8d3e"
     },
     {
       "title": "Firebase",
-      "amountOfVideos": 79
+      "slug": "old",
+      "amountOfVideos": 79,
+      "id": "baa7"
     },
     {
       "title": "AWS",
-      "amountOfVideos": 112
+      "slug": "old",
+      "amountOfVideos": 112,
+      "id": "271b"
     },
     {
       "title": "Azure",
-      "amountOfVideos": 97
+      "slug": "old",
+      "amountOfVideos": 97,
+      "id": "0c79"
     },
     {
       "title": "Google Cloud",
-      "amountOfVideos": 103
+      "slug": "old",
+      "amountOfVideos": 103,
+      "id": "c34c"
     },
     {
       "title": "Heroku",
-      "amountOfVideos": 65
+      "slug": "old",
+      "amountOfVideos": 65,
+      "id": "13e3"
     },
     {
       "title": "Netlify",
-      "amountOfVideos": 43
+      "slug": "old",
+      "amountOfVideos": 43,
+      "id": "bf5f"
     },
     {
       "title": "DigitalOcean",
-      "amountOfVideos": 51
+      "slug": "old",
+      "amountOfVideos": 51,
+      "id": "dab3"
     },
     {
       "title": "Vagrant",
-      "amountOfVideos": 34
+      "slug": "old",
+      "amountOfVideos": 34,
+      "id": "d0e9"
     },
     {
       "title": "VirtualBox",
-      "amountOfVideos": 36
+      "slug": "old",
+      "amountOfVideos": 36,
+      "id": "8c87"
     },
     {
       "title": "VMware",
-      "amountOfVideos": 39
+      "slug": "old",
+      "amountOfVideos": 39,
+      "id": "0aed"
     },
     {
       "title": "Linux",
-      "amountOfVideos": 144
+      "slug": "old",
+      "amountOfVideos": 144,
+      "id": "c822"
     },
     {
       "title": "Windows",
-      "amountOfVideos": 189
+      "slug": "old",
+      "amountOfVideos": 189,
+      "id": "77c9"
     },
     {
       "title": "macOS",
-      "amountOfVideos": 121
+      "slug": "old",
+      "amountOfVideos": 121,
+      "id": "acce"
     },
     {
       "title": "iOS",
-      "amountOfVideos": 98
+      "slug": "old",
+      "amountOfVideos": 98,
+      "id": "f33c"
     },
     {
       "title": "Android",
-      "amountOfVideos": 123
+      "slug": "old",
+      "amountOfVideos": 123,
+      "id": "f1b0"
     },
     {
       "title": "React Native",
-      "amountOfVideos": 76
+      "slug": "old",
+      "amountOfVideos": 76,
+      "id": "0f7a"
     },
     {
       "title": "Flutter",
-      "amountOfVideos": 88
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "cd0f"
     },
     {
       "title": "Ionic",
-      "amountOfVideos": 57
+      "slug": "old",
+      "amountOfVideos": 57,
+      "id": "b0ef"
     },
     {
       "title": "Xamarin",
-      "amountOfVideos": 71
+      "slug": "old",
+      "amountOfVideos": 71,
+      "id": "b67c"
     },
     {
       "title": "Unity",
-      "amountOfVideos": 82
+      "slug": "old",
+      "amountOfVideos": 82,
+      "id": "ad15"
     },
     {
       "title": "Unreal Engine",
-      "amountOfVideos": 94
+      "slug": "old",
+      "amountOfVideos": 94,
+      "id": "25e5"
     },
     {
       "title": "Blender",
-      "amountOfVideos": 69
+      "slug": "old",
+      "amountOfVideos": 69,
+      "id": "d33a"
     },
     {
       "title": "Maya",
-      "amountOfVideos": 52
+      "slug": "old",
+      "amountOfVideos": 52,
+      "id": "7505"
     },
     {
       "title": "Photoshop",
-      "amountOfVideos": 115
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "53ce"
     },
     {
       "title": "Illustrator",
-      "amountOfVideos": 84
+      "slug": "old",
+      "amountOfVideos": 84,
+      "id": "43fc"
     },
     {
       "title": "InDesign",
-      "amountOfVideos": 63
+      "slug": "old",
+      "amountOfVideos": 63,
+      "id": "f9e6"
     },
     {
       "title": "After Effects",
-      "amountOfVideos": 79
+      "slug": "old",
+      "amountOfVideos": 79,
+      "id": "4dac"
     },
     {
       "title": "Premiere Pro",
-      "amountOfVideos": 91
+      "slug": "old",
+      "amountOfVideos": 91,
+      "id": "9a6b"
     },
     {
-      "title": "Final Cut Pro",
-      "amountOfVideos": 76
+      "title": "Final Cut Prp",
+      "slug": "old",
+      "amountOfVideos": 76,
+      "id": "f662"
     },
     {
       "title": "DaVinci Resolve",
-      "amountOfVideos": 68
+      "slug": "old",
+      "amountOfVideos": 68,
+      "id": "564c"
     },
     {
       "title": "Sketch",
-      "amountOfVideos": 104
+      "slug": "old",
+      "amountOfVideos": 104,
+      "id": "865a"
     },
     {
       "title": "Figma",
-      "amountOfVideos": 99
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "992f"
     },
     {
       "title": "Zeplin",
-      "amountOfVideos": 47
+      "slug": "old",
+      "amountOfVideos": 47,
+      "id": "ada5"
     },
     {
       "title": "Adobe XD",
-      "amountOfVideos": 62
+      "slug": "old",
+      "amountOfVideos": 62,
+      "id": "0c71"
     },
     {
       "title": "Axure RP",
-      "amountOfVideos": 57
+      "slug": "old",
+      "amountOfVideos": 57,
+      "id": "bad6"
     },
     {
       "title": "Balsamiq",
-      "amountOfVideos": 39
+      "slug": "old",
+      "amountOfVideos": 39,
+      "id": "b8b5"
     },
     {
       "title": "Proto.io",
-      "amountOfVideos": 48
+      "slug": "old",
+      "amountOfVideos": 48,
+      "id": "e297"
     },
     {
       "title": "Marvel",
-      "amountOfVideos": 55
+      "slug": "old",
+      "amountOfVideos": 55,
+      "id": "07f0"
     },
     {
       "title": "InVision",
-      "amountOfVideos": 78
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "9ceb"
     },
     {
       "title": "Principle",
-      "amountOfVideos": 42
+      "slug": "old",
+      "amountOfVideos": 42,
+      "id": "7874"
     },
     {
       "title": "Flinto",
-      "amountOfVideos": 49
+      "slug": "old",
+      "amountOfVideos": 49,
+      "id": "9f81"
     },
     {
       "title": "Origami Studio",
-      "amountOfVideos": 37
+      "slug": "old",
+      "amountOfVideos": 37,
+      "id": "d9dc"
     },
     {
       "title": "Craft",
-      "amountOfVideos": 29
+      "slug": "old",
+      "amountOfVideos": 29,
+      "id": "c2f2"
     },
     {
       "title": "Overflow",
-      "amountOfVideos": 33
+      "slug": "old",
+      "amountOfVideos": 33,
+      "id": "449b"
     },
     {
       "title": "Framer",
-      "amountOfVideos": 67
+      "slug": "old",
+      "amountOfVideos": 67,
+      "id": "7518"
     },
     {
       "title": "Studio",
-      "amountOfVideos": 51
+      "slug": "old",
+      "amountOfVideos": 51,
+      "id": "4aae"
     },
     {
       "title": "Adobe Audition",
-      "amountOfVideos": 38
+      "slug": "old",
+      "amountOfVideos": 38,
+      "id": "9f6d"
     },
     {
       "title": "Logic Pro",
-      "amountOfVideos": 47
+      "slug": "old",
+      "amountOfVideos": 47,
+      "id": "97a0"
     },
     {
       "title": "Ableton Live",
-      "amountOfVideos": 54
+      "slug": "old",
+      "amountOfVideos": 54,
+      "id": "9bba"
     },
     {
       "title": "Pro Tools",
-      "amountOfVideos": 41
+      "slug": "old",
+      "amountOfVideos": 41,
+      "id": "c40c"
     },
     {
       "title": "GarageBand",
-      "amountOfVideos": 36
+      "slug": "old",
+      "amountOfVideos": 36,
+      "id": "7d89"
     },
     {
       "title": "Cubase",
-      "amountOfVideos": 43
+      "slug": "old",
+      "amountOfVideos": 43,
+      "id": "a731"
     },
     {
       "title": "FL Studio",
-      "amountOfVideos": 58
+      "slug": "old",
+      "amountOfVideos": 58,
+      "id": "9b20"
     },
     {
       "title": "Bitwig Studio",
-      "amountOfVideos": 32
+      "slug": "old",
+      "amountOfVideos": 32,
+      "id": "a3be"
     },
     {
       "title": "Reason",
-      "amountOfVideos": 29
+      "slug": "old",
+      "amountOfVideos": 29,
+      "id": "d3fa"
     },
     {
       "title": "Reaper",
-      "amountOfVideos": 35
+      "slug": "old",
+      "amountOfVideos": 35,
+      "id": "3f4d"
     },
     {
       "title": "Nuendo",
-      "amountOfVideos": 24
+      "slug": "old",
+      "amountOfVideos": 24,
+      "id": "b322"
+    },
+    {
+      "id": "e487",
+      "title": "teste slug",
+      "slug": "teste-slug",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "7c94",
+      "title": "teste loader",
+      "slug": "teste-loader",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "66f3",
+      "title": "teste com mutate",
+      "slug": "teste-com-mutate",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "9a13",
+      "title": "deve aparecer na lista sozinho",
+      "slug": "deve-aparecer-na-lista-sozinho",
+      "amountOfVideos": 0
     }
   ]
 }
